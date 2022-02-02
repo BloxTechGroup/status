@@ -18,6 +18,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status
   name: BloxTech
+  theme: night
   introTitle: "**BloxTech Group** provides hiring resources to accelerate group growth, for free!"
   introMessage: We promise 99% uptime and transparency — decentralised from BloxTech's ecosystem
   navbar:
