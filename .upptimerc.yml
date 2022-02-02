@@ -23,7 +23,7 @@ status-website:
   introMessage: We promise 99% uptime and transparency — decentralised from BloxTech's ecosystem
   navbar:
     - title: Status
-      href: /
+      href: /status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
