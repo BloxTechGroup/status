@@ -4,19 +4,19 @@
     "url": "https://bloxtech.tech/admin",
     "icon": "https://favicons.githubusercontent.com/bloxtech.tech",
     "slug": "blox-tech-dashboard",
-    "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "95.56%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
-    "time": 566,
-    "timeDay": 437,
-    "timeWeek": 524,
-    "timeMonth": 566,
-    "timeYear": 566,
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "94.44%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
+    "time": 559,
+    "timeDay": 453,
+    "timeWeek": 517,
+    "timeMonth": 559,
+    "timeYear": 559,
     "dailyMinutesDown": {
-      "2022-02-11": 64
+      "2022-02-11": 80
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://bloxtech.tech/apiv2/status.php",
     "icon": "https://favicons.githubusercontent.com/bloxtech.tech",
     "slug": "blox-tech-api-roblox",
-    "status": "down",
-    "uptime": "99.49%",
-    "uptimeDay": "95.67%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.49%",
-    "time": 203,
-    "timeDay": 172,
-    "timeWeek": 198,
-    "timeMonth": 203,
-    "timeYear": 203,
+    "status": "up",
+    "uptime": "99.36%",
+    "uptimeDay": "94.54%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
+    "time": 196,
+    "timeDay": 144,
+    "timeWeek": 188,
+    "timeMonth": 196,
+    "timeYear": 196,
     "dailyMinutesDown": {
-      "2022-02-11": 62
+      "2022-02-11": 79
     }
   },
   {
