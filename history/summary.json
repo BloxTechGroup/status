@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/bloxtech.tech",
     "slug": "blox-tech-dashboard",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
     "time": 559,
     "timeDay": 653,
-    "timeWeek": 550,
+    "timeWeek": 538,
     "timeMonth": 559,
     "timeYear": 559,
     "dailyMinutesDown": {
@@ -25,14 +25,14 @@
     "icon": "https://favicons.githubusercontent.com/bloxtech.tech",
     "slug": "blox-tech-api-roblox",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
     "time": 213,
     "timeDay": 112,
-    "timeWeek": 226,
+    "timeWeek": 231,
     "timeMonth": 213,
     "timeYear": 213,
     "dailyMinutesDown": {
@@ -44,25 +44,27 @@
     "url": "https://rocketapps.bloxtech.tech",
     "icon": "https://favicons.githubusercontent.com/rocketapps.bloxtech.tech",
     "slug": "rocket-apps-dashboard",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 388,
     "timeDay": 301,
     "timeWeek": 350,
     "timeMonth": 388,
     "timeYear": 388,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-18": 2
+    }
   },
   {
     "name": "RocketApps API (Roblox)",
     "url": "https://roblox-rocketapps.bloxtech.tech",
     "icon": "https://favicons.githubusercontent.com/roblox-rocketapps.bloxtech.tech",
     "slug": "rocket-apps-api-roblox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -73,6 +75,8 @@
     "timeWeek": 491,
     "timeMonth": 334,
     "timeYear": 334,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-18": 0
+    }
   }
 ]
