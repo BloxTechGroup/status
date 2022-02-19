@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/bloxtech.tech",
     "slug": "blox-tech-dashboard",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
-    "time": 559,
-    "timeDay": 653,
-    "timeWeek": 538,
-    "timeMonth": 559,
-    "timeYear": 559,
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 563,
+    "timeDay": 651,
+    "timeWeek": 543,
+    "timeMonth": 563,
+    "timeYear": 563,
     "dailyMinutesDown": {
       "2022-02-11": 97
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.60%",
-    "time": 213,
-    "timeDay": 112,
-    "timeWeek": 231,
-    "timeMonth": 213,
-    "timeYear": 213,
+    "time": 216,
+    "timeDay": 285,
+    "timeWeek": 230,
+    "timeMonth": 216,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2022-02-11": 95
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/rocketapps.bloxtech.tech",
     "slug": "rocket-apps-dashboard",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "97.79%",
     "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 388,
-    "timeDay": 341,
-    "timeWeek": 354,
-    "timeMonth": 388,
-    "timeYear": 388,
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 383,
+    "timeDay": 334,
+    "timeWeek": 352,
+    "timeMonth": 383,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2022-02-18": 32
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 329,
+    "time": 321,
     "timeDay": 206,
-    "timeWeek": 460,
-    "timeMonth": 329,
-    "timeYear": 329,
+    "timeWeek": 187,
+    "timeMonth": 321,
+    "timeYear": 321,
     "dailyMinutesDown": {
       "2022-02-18": 30
     }
