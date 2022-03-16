@@ -4,10 +4,10 @@
     "url": "https://bloxtech.tech/admin",
     "icon": "https://favicons.githubusercontent.com/bloxtech.tech",
     "slug": "blox-tech-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.81%",
     "time": 576,
@@ -16,6 +16,7 @@
     "timeMonth": 579,
     "timeYear": 576,
     "dailyMinutesDown": {
+      "2022-03-16": 2,
       "2022-02-19": 16,
       "2022-02-11": 97
     }
@@ -25,18 +26,19 @@
     "url": "https://bloxtech.tech/apiv2/status.php",
     "icon": "https://favicons.githubusercontent.com/bloxtech.tech",
     "slug": "blox-tech-api-roblox",
-    "status": "up",
-    "uptime": "99.84%",
+    "status": "down",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.85%",
     "time": 195,
     "timeDay": 308,
     "timeWeek": 148,
     "timeMonth": 181,
     "timeYear": 195,
     "dailyMinutesDown": {
+      "2022-03-16": 0,
       "2022-02-11": 95
     }
   },
