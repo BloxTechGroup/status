@@ -6,15 +6,15 @@
     "slug": "blox-tech-dashboard",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "98.86%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.79%",
-    "time": 577,
-    "timeDay": 617,
-    "timeWeek": 477,
-    "timeMonth": 592,
-    "timeYear": 577,
+    "time": 571,
+    "timeDay": 252,
+    "timeWeek": 469,
+    "timeMonth": 579,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2022-03-16": 16,
       "2022-02-19": 16,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 195,
-    "timeDay": 200,
-    "timeWeek": 144,
+    "time": 193,
+    "timeDay": 98,
+    "timeWeek": 148,
     "timeMonth": 179,
-    "timeYear": 195,
+    "timeYear": 193,
     "dailyMinutesDown": {
       "2022-02-11": 95
     }
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
-    "time": 409,
-    "timeDay": 299,
+    "time": 412,
+    "timeDay": 553,
     "timeWeek": 427,
-    "timeMonth": 420,
-    "timeYear": 409,
+    "timeMonth": 428,
+    "timeYear": 412,
     "dailyMinutesDown": {
       "2022-02-18": 32
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
-    "time": 310,
-    "timeDay": 151,
-    "timeWeek": 345,
-    "timeMonth": 289,
-    "timeYear": 310,
+    "time": 316,
+    "timeDay": 595,
+    "timeWeek": 375,
+    "timeMonth": 304,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2022-02-18": 30
     }
