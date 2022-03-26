@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/bloxtech.tech",
     "slug": "blox-tech-dashboard",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.83%",
     "time": 581,
-    "timeDay": 1419,
-    "timeWeek": 651,
-    "timeMonth": 574,
+    "timeDay": 603,
+    "timeWeek": 691,
+    "timeMonth": 571,
     "timeYear": 581,
     "dailyMinutesDown": {
       "2022-03-16": 16,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 194,
-    "timeDay": 284,
-    "timeWeek": 204,
-    "timeMonth": 162,
-    "timeYear": 194,
+    "time": 196,
+    "timeDay": 309,
+    "timeWeek": 239,
+    "timeMonth": 169,
+    "timeYear": 196,
     "dailyMinutesDown": {
       "2022-02-11": 95
     }
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 424,
-    "timeDay": 312,
-    "timeWeek": 501,
-    "timeMonth": 472,
-    "timeYear": 424,
+    "time": 421,
+    "timeDay": 287,
+    "timeWeek": 461,
+    "timeMonth": 470,
+    "timeYear": 421,
     "dailyMinutesDown": {
       "2022-02-18": 32
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 304,
-    "timeDay": 117,
-    "timeWeek": 226,
-    "timeMonth": 316,
-    "timeYear": 304,
+    "time": 301,
+    "timeDay": 129,
+    "timeWeek": 189,
+    "timeMonth": 314,
+    "timeYear": 301,
     "dailyMinutesDown": {
       "2022-02-18": 30
     }
