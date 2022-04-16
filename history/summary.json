@@ -8,12 +8,12 @@
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.90%",
-    "uptimeMonth": "99.71%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.77%",
     "time": 559,
     "timeDay": 497,
     "timeWeek": 449,
-    "timeMonth": 537,
+    "timeMonth": 534,
     "timeYear": 559,
     "dailyMinutesDown": {
       "2022-04-11": 111,
@@ -28,15 +28,15 @@
     "icon": "https://favicons.githubusercontent.com/bloxtech.tech",
     "slug": "blox-tech-api-roblox",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.91%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.81%",
     "time": 187,
     "timeDay": 198,
     "timeWeek": 151,
-    "timeMonth": 175,
+    "timeMonth": 171,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2022-04-11": 110,
@@ -68,7 +68,7 @@
     "url": "https://roblox-rocketapps.bloxtech.tech",
     "icon": "https://favicons.githubusercontent.com/roblox-rocketapps.bloxtech.tech",
     "slug": "rocket-apps-api-roblox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -80,6 +80,7 @@
     "timeMonth": 281,
     "timeYear": 300,
     "dailyMinutesDown": {
+      "2022-04-16": 0,
       "2022-02-18": 30
     }
   }
