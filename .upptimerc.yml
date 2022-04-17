@@ -25,5 +25,8 @@ status-website:
     - title: Status
       href: /status
 
+i18n:
+  footer: "Uptime is updated automatically and can't be modified by BloxTech"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
