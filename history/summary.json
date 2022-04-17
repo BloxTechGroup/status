@@ -48,10 +48,10 @@
     "url": "https://rocketapps.bloxtech.tech",
     "icon": "https://favicons.githubusercontent.com/rocketapps.bloxtech.tech",
     "slug": "rocket-apps-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "65.16%",
-    "uptimeWeek": "95.02%",
+    "uptimeDay": "65.05%",
+    "uptimeWeek": "95.01%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "99.50%",
     "time": 443,
@@ -60,7 +60,7 @@
     "timeMonth": 489,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2022-04-17": 474,
+      "2022-04-17": 476,
       "2022-04-16": 29,
       "2022-02-18": 32
     }
@@ -71,18 +71,18 @@
     "icon": "https://favicons.githubusercontent.com/roblox-rocketapps.bloxtech.tech",
     "slug": "rocket-apps-api-roblox",
     "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "63.76%",
-    "uptimeWeek": "94.82%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.46%",
+    "uptimeDay": "62.40%",
+    "uptimeWeek": "94.63%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "99.46%",
     "time": 295,
     "timeDay": 172,
     "timeWeek": 270,
     "timeMonth": 275,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2022-04-17": 431,
+      "2022-04-17": 451,
       "2022-04-16": 91,
       "2022-02-18": 30
     }
