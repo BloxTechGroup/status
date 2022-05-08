@@ -48,9 +48,9 @@
     "url": "https://rocketapps.bloxtech.tech",
     "icon": "https://favicons.githubusercontent.com/rocketapps.bloxtech.tech",
     "slug": "rocket-apps-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "98.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.26%",
     "uptimeYear": "98.77%",
@@ -60,6 +60,7 @@
     "timeMonth": 1566,
     "timeYear": 865,
     "dailyMinutesDown": {
+      "2022-05-08": 0,
       "2022-04-18": 1185,
       "2022-04-17": 453,
       "2022-02-18": 32
